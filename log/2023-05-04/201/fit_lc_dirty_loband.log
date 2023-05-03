@@ -1,0 +1,110 @@
+2023-05-04 00:30:09,352 - fit_lc_dirty - INFO - filtering rate_4000-10000_EMOS1_hiband_clean.fits
+2023-05-04 00:30:09,367 - fit_lc_dirty - INFO - selected data num:354; fitting properties (amp, mu, sigma): 15.05553946227149, 0.5651947140839548, 0.10094802140146149
+2023-05-04 00:30:09,373 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.26977857818473, 0.5631078914721054, 0.09742514953992754
+2023-05-04 00:30:09,384 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,393 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,404 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,406 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,417 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,428 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,432 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,436 - fit_lc_dirty - INFO - selected data num:351; fitting properties (amp, mu, sigma): 15.330167624815145, 0.5627078309810879, 0.09691791146975101
+2023-05-04 00:30:09,672 - fit_lc_dirty - INFO - filtering rate_4000-10000_EMOS2_hiband_clean.fits
+2023-05-04 00:30:09,672 - fit_lc_dirty - INFO - filtering rate_4000-10000_EMOS2_hiband_clean.fits
+2023-05-04 00:30:09,683 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 15.992302314536953, 0.632697736221612, 0.09559807691881907
+2023-05-04 00:30:09,683 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 15.992302314536953, 0.632697736221612, 0.09559807691881907
+2023-05-04 00:30:09,692 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,692 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,699 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,699 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,708 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,708 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,719 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,719 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,730 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,730 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,744 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,744 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,754 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,754 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,755 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,755 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,763 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:09,763 - fit_lc_dirty - INFO - selected data num:366; fitting properties (amp, mu, sigma): 16.001884500768153, 0.6320856312756766, 0.09491997574152132
+2023-05-04 00:30:10,029 - fit_lc_dirty - INFO - filtering rate_4000-10000_EPN_hiband_clean.fits
+2023-05-04 00:30:10,029 - fit_lc_dirty - INFO - filtering rate_4000-10000_EPN_hiband_clean.fits
+2023-05-04 00:30:10,029 - fit_lc_dirty - INFO - filtering rate_4000-10000_EPN_hiband_clean.fits
+2023-05-04 00:30:10,040 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,040 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,040 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,051 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,051 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,051 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,054 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,054 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,054 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,066 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,066 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,066 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,072 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,072 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,072 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,075 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,075 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,075 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,083 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,083 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,083 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,086 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,086 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,086 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,091 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,091 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,091 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,094 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,094 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,094 - fit_lc_dirty - INFO - selected data num:270; fitting properties (amp, mu, sigma): 3.891047130930819, 2.7326706519695962, 0.3656373556170717
+2023-05-04 00:30:10,329 - fit_lc_dirty - INFO - filtering rate_4000-10000_Oot_hiband_clean.fits
+2023-05-04 00:30:10,329 - fit_lc_dirty - INFO - filtering rate_4000-10000_Oot_hiband_clean.fits
+2023-05-04 00:30:10,329 - fit_lc_dirty - INFO - filtering rate_4000-10000_Oot_hiband_clean.fits
+2023-05-04 00:30:10,329 - fit_lc_dirty - INFO - filtering rate_4000-10000_Oot_hiband_clean.fits
+2023-05-04 00:30:10,339 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,339 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,339 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,339 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,350 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,350 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,350 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,350 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,352 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,352 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,352 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,352 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,361 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,361 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,361 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,361 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,364 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,364 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,364 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,364 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,375 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,375 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,375 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,375 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,381 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,381 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,381 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,381 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,386 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,386 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,386 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,386 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,396 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,396 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,396 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,396 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,406 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,406 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,406 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422
+2023-05-04 00:30:10,406 - fit_lc_dirty - INFO - selected data num:274; fitting properties (amp, mu, sigma): 3.857898413477002, 2.738613142045566, 0.3745662639605422

@@ -38,33 +38,28 @@ def create_logfile(name, savefile):
     # logger.error('Error message')
     # logger.critical('Critical message')
 
-def plotting(x, y, y_err, model, xlim, ObsID, instrument, figures_path,  xscale='linear', bkg=False, figpath = '/stage/headat/yanling/XMM_datareduction/fig',):
+def plotting(x, y, y_err, model, xlim, instrument, figpath, xscale='linear', bkg=False):
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(8,8), sharex=True, gridspec_kw={'height_ratios': [3, 1]})
     ax1.tick_params(direction='in', which='both', length=5, labelsize=15)
     ax2.tick_params(direction='in', which='both', length=5, labelsize=15)
     instrument = instrument.split('.')[0]
     plt.suptitle(instrument)
-    
     ax1.set_ylabel(r'N', fontsize = 15.0)
     ax1.set_xscale(xscale)
-    
     ax1.set_xlim(0, xlim[1])
-
     ax1.errorbar(x, y, yerr=y_err, fmt='o', capsize=2, label='Data')
     ax1.plot(x, model, label='Fit')
     ax1.legend(loc='best', fontsize=15.0)
-
     ax2.set_ylabel(r'Ratio', fontsize = 15.0)
     ax2.set_ylim(0.5,1.5)
     ax2.axhline(y=1.)
-
     ax2.errorbar(x, y/model, yerr=y_err/model, fmt='o', capsize=2)
-
     ax2.set_xlabel('Rate [cts/s]', fontsize = 15.0)
-
     plt.subplots_adjust(hspace=0.1)
-    plt.savefig(f'{figpath}/{instrument}_ratehist.png')
-    plt.close()
+    plt.show()
+    plt.clf()
+    # plt.savefig(f'{figpath}/{instrument}_ratehist.png')
+
 def input_lc(fname, datapath, PN_cts_limit, EMOS_cts_limit):
     hdul = fits.open(f'{datapath}/{fname}')
     data = hdul[1].data
@@ -133,7 +128,7 @@ def fit_lc_dirty(iter_cts, fname, datapath, scale, binnum,  logger, figpath = '/
     if PLOT==True:
         plotting(bin_mid, hist, np.sqrt(hist), gaussian(bin_mid, amp, mu, sigma), 
                     [mu-scale*sigma, mu+scale*sigma], fname, 
-                    fname, figures_path=figpath, bkg=True)
+                    figpath, bkg=True)
         # check with the original lightcurve data
         plt.figure(figsize = (8,8))
         plt.scatter(newtime,newrate, alpha=0.5, s=2, color = 'b')#, yerr=dat['ERROR'])
@@ -142,6 +137,7 @@ def fit_lc_dirty(iter_cts, fname, datapath, scale, binnum,  logger, figpath = '/
         plt.axhline(mu-scale*sigma, color = 'r')
         plt.title(f'{fname.split(".")[0]}')
         plt.yscale('log')
+        plt.show()
         plt.savefig(f'{figpath}/{fname.split(".")[0]}_ratevstime.png')
         plt.close()
     return amp, mu, sigma, hist, bin_mid
