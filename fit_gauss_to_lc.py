@@ -137,7 +137,7 @@ def fit_lc_dirty(iter_cts, fname, datapath, scale, binnum,  logger, figpath = '/
         plt.axhline(mu-scale*sigma, color = 'r')
         plt.title(f'{fname.split(".")[0]}')
         plt.yscale('log')
-        plt.show()
         plt.savefig(f'{figpath}/{fname.split(".")[0]}_ratevstime.png')
+        plt.show()
         plt.close()
     return amp, mu, sigma, hist, bin_mid
